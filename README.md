@@ -1,15 +1,8 @@
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
-
   <h3><b>[/*TITLE]</b></h3>
-
 </div>
-
-# [/*TITLE]
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -45,15 +38,15 @@
 <details>
   <summary>Languages and technologies</summary>
   <ul>
+    <li><a href="#">JavaScript</a></li>
+  </ul>
+  <ul>
     <li><a href="#">HTML</a></li>
   </ul>
-    <ul>
+  <ul>
     <li><a href="#">CSS3</a></li>
   </ul>
-    <ul>
-    <li><a href="#">VScode</a></li>
-  </ul>
-    <ul>
+  <ul>
     <li><a href="#">Git and GitHub</a></li>
   </ul>
 </details>
@@ -63,8 +56,8 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Easy navigation]**
-- **[Personalized product]**
-- **[Secure payment processing]**
+- **[Mobile first approach]**
+- **[]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,9 +118,11 @@ GitHub pages
 
 👷‍♂️ **Juan Sanchez**
 
-- GitHub: [@githubhandle](https://github.com/J-C-S-V)
-- Twitter: [@twitterhandle](https://twitter.com/juansan0)
-- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/juan-carlos-sanchez-vargas-a308b014b/)
+- Email: [juansan1993@hotmail.com](juansan1993@hotmail.com)
+- LinkedIn: [Juan Sanchez](https://www.linkedin.com/in/juan-carlos-sanchez-vargas-a308b014b/)
+- GitHub: [Juan Sanchez](https://github.com/J-C-S-V)
+- Twitter: [Juan Sanchez](https://twitter.com/juansan0)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,8 +131,8 @@ GitHub pages
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Payment]**
-- [ ] **[Footer]**
-- [ ] **[Profile picture]**
+- [ ] **[Jest tests]**
+- [ ] **[API integration]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
