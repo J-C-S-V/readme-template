@@ -1,40 +1,38 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="./main_img.png" alt="logo" width="340"  height="auto" /><br/>
+  <a href="https://unsplash.com/photos/04X1Yp9hNH8">
+  <img src="https://images.unsplash.com/photo-1661956600684-97d3a4320e45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="logo" width="340"  height="auto" /><br/>
+  </a>
 </div>
 
 # To do list
 
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
+- [📖 About the project](#about-project)
+  - [🛠 Built with](#built-with)
+    - [Tech stack](#tech-stack)
+    - [Key features](#key-features)
+  - [🚀 Live demo](#live-demo)
+- [💻 Getting started](#getting-started)
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
 - [👷‍♂️ Author](#authors)
-- [🔭 Future Features](#future-features)
+- [🔭 Future features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 To do list <a name="about-project"></a>
+# 📖 About the project <a name="about-project"></a>
 
 This is a project to create lists for a day. This was build using SPA (Single Page Application), JavaScript ES6, HTML5, CSS3, mobile-first approach. local storage API and DOM manipulation.
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built with <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech stack <a name="tech-stack"></a>
 
 <details>
   <summary>Languages and technologies</summary><br>
@@ -64,9 +62,7 @@ This is a project to create lists for a day. This was build using SPA (Single Pa
   </ul>
 </details>
 
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
+### Key features <a name="key-features"></a>
 
 - **[Easy navigation]**
 - **[Personalized product]**
@@ -74,17 +70,13 @@ This is a project to create lists for a day. This was build using SPA (Single Pa
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://j-c-s-v.github.io/webpack-to-do-list/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Getting started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
@@ -114,7 +106,7 @@ Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Future features <a name="future-features"></a>
 
 - [ ] **[Payment]**
 - [ ] **[Footer]**
