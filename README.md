@@ -1,8 +1,12 @@
+<a name="readme-top"></a>
+
 <div align="center">
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-  <h3><b>[/*TITLE]</b></h3>
+  <img src="./main_img.png" alt="logo" width="340"  height="auto" /><br/>
 </div>
+
+# To do list
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -13,11 +17,8 @@
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#run-tests)
 - [👷‍♂️ Author](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -27,27 +28,39 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [/*TITLE] <a name="about-project"></a>
+# 📖 To do list <a name="about-project"></a>
 
-**[/*TITLE]** is my first project with Microverse 😀. Here we'll see a very basic web page using the standards of the industry 💻
+This is a project to create lists for a day. This was build using SPA (Single Page Application), JavaScript ES6, HTML5, CSS3, mobile-first approach. local storage API and DOM manipulation.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Languages and technologies</summary>
+  <summary>Languages and technologies</summary><br>
   <ul>
-    <li><a href="#">JavaScript</a></li>
+    <li><a href="#">JavaScript ES6</a></li>
   </ul>
   <ul>
-    <li><a href="#">HTML</a></li>
+    <li><a href="#">Webpack</a></li>
+  </ul>
+  <ul>
+    <li><a href="#">HTML5</a></li>
   </ul>
   <ul>
     <li><a href="#">CSS3</a></li>
   </ul>
   <ul>
-    <li><a href="#">Git and GitHub</a></li>
+    <li><a href="#">Git</a></li>
+  </ul>
+  <ul>
+    <li><a href="#">SASS</a></li>
+  </ul>
+  <ul>
+    <li><a href="#">Jest</a></li>
+  </ul>
+  <ul>
+    <li><a href="#">Jest</a></li>
   </ul>
 </details>
 
@@ -56,8 +69,8 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Easy navigation]**
-- **[Mobile first approach]**
-- **[]**
+- **[Personalized product]**
+- **[Mobile first]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,10 +78,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://j-c-s-v.github.io/Portfolio-setup-and-mobile-first/)
+- [Live Demo Link](https://j-c-s-v.github.io/webpack-to-do-list/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 
@@ -76,67 +88,39 @@
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
-
-In order to run this project you need GitHub account and a text editor.
-
 ### Setup
 
 Clone this repository to your desired folder:
 
-https
-cd my-folder
-git clone https://github.com/J-C-S-V/hello_microverse_project.git
+`git clone` https://github.com/J-C-S-V/webpack-to-do-list-
 
 ### Install
 
-Install this project with:
-
-N/A
+`npm install`
 
 ### Usage
 
-To run the project, execute the following command:
+`npm run build`
 
-N/A
-
-### Run tests
-
-N/A
-
-### Deployment
-
-You can deploy this project using:
-
-GitHub pages
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
+`npm run start`
 
 ## 👷‍♂️ Author <a name="authors"></a>
 
 👷‍♂️ **Juan Sanchez**
 
-- Email: [juansan1993@hotmail.com](juansan1993@hotmail.com)
-- LinkedIn: [Juan Sanchez](https://www.linkedin.com/in/juan-carlos-sanchez-vargas-a308b014b/)
 - GitHub: [Juan Sanchez](https://github.com/J-C-S-V)
 - Twitter: [Juan Sanchez](https://twitter.com/juansan0)
-
+- LinkedIn: [Juan Sanchez](https://www.linkedin.com/in/juan-carlos-sanchez-vargas-a308b014b/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Payment]**
-- [ ] **[Jest tests]**
+- [ ] **[Footer]**
 - [ ] **[API integration]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -146,23 +130,17 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
 If you get inspired by this project you can give me a star 🙌
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
