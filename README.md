@@ -2,11 +2,10 @@
 
 <div align="center">
   <a href="https://unsplash.com/photos/04X1Yp9hNH8">
-  <img src="https://images.unsplash.com/photo-1661956600684-97d3a4320e45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80" alt="logo" width="340"  height="auto" /><br/>
+    <img src="https://github.com/J-C-S-V/spacex-project/assets/109441277/67864144-6dad-4db2-9b90-ad2ca7b9e4aa" alt="logo" width="740" height="auto" /><br/>
   </a>
+  <h1><b>Space Travelers' Hub</b></h1>
 </div>
-
-# To do list
 
 # 📗 Table of Contents
 
@@ -17,9 +16,12 @@
   - [🚀 Live demo](#live-demo)
 - [💻 Getting started](#getting-started)
   - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-- [👷‍♂️ Author](#authors)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👷 Author](#author)
 - [🔭 Future features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -28,7 +30,11 @@
 
 # 📖 About the project <a name="about-project"></a>
 
-This is a project to create lists for a day. This was build using SPA (Single Page Application), JavaScript ES6, HTML5, CSS3, mobile-first approach. local storage API and DOM manipulation.
+This project is a web application that focuses on rocket reservations and mission management. It allows users to reserve rockets for upcoming missions and provides a comprehensive overview of mission details. The application is built using React.js and Redux for state management.
+
+In order to provide up-to-date and relevant information to the users, this SPA integrates with the SpaceX API. By leveraging the SpaceX API, the application can fetch data related to space missions, rocket launches, astronauts, and more. This integration allows users to explore the latest launches, upcoming missions, and historical information about SpaceX's activities directly within the application.
+
+This project is a Single Page Application (SPA), which utilizes modern web technologies to provide a seamless and fluid user experience. By leveraging client-side rendering, the application eliminates the need for full page reloads, enabling users to navigate within the page smoothly.
 
 ## 🛠 Built with <a name="built-with"></a>
 
@@ -37,10 +43,13 @@ This is a project to create lists for a day. This was build using SPA (Single Pa
 <details>
   <summary>Languages and technologies</summary><br>
   <ul>
-    <li><a href="#">JavaScript ES6</a></li>
+    <li><a href="#">React.js</a></li>
   </ul>
   <ul>
-    <li><a href="#">Webpack</a></li>
+    <li><a href="#">Redux</a></li>
+  </ul>
+  <ul>
+    <li><a href="#">JavaScript</a></li>
   </ul>
   <ul>
     <li><a href="#">HTML5</a></li>
@@ -52,27 +61,25 @@ This is a project to create lists for a day. This was build using SPA (Single Pa
     <li><a href="#">Git</a></li>
   </ul>
   <ul>
-    <li><a href="#">SASS</a></li>
-  </ul>
-  <ul>
     <li><a href="#">Jest</a></li>
   </ul>
   <ul>
-    <li><a href="#">Jest</a></li>
+    <li><a href="#">React-testing-library</a></li>
   </ul>
 </details>
 
 ### Key features <a name="key-features"></a>
 
-- **[Easy navigation]**
-- **[Personalized product]**
-- **[Mobile first]**
+- **[Centralized state]**
+- **[REST API]**
+- **[Single Page Application]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://j-c-s-v.github.io/webpack-to-do-list/)
+Under construction.
+<!-- - [Live Demo Link](https://j-c-s-v.github.io/webpack-to-do-list/) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,11 +87,15 @@ This is a project to create lists for a day. This was build using SPA (Single Pa
 
 To get a local copy up and running, follow these steps.
 
+### Prerequisites
+
+In order to run this project you need:
+
 ### Setup
 
 Clone this repository to your desired folder:
 
-`git clone` https://github.com/J-C-S-V/webpack-to-do-list-
+`git clone` https://github.com/J-C-S-V/spacex-project
 
 ### Install
 
@@ -92,11 +103,19 @@ Clone this repository to your desired folder:
 
 ### Usage
 
-`npm run build`
-
 `npm run start`
 
-## 👷‍♂️ Author <a name="authors"></a>
+### Run tests
+
+`npm run test`
+
+### Deployment
+
+You can deploy this project using:
+
+[Render](https://render.com/)
+
+## 👷‍♂️ Author <a name="author"></a>
 
 👷‍♂️ **Juan Sanchez**
 
@@ -108,9 +127,9 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future features <a name="future-features"></a>
 
-- [ ] **[Payment]**
-- [ ] **[Footer]**
-- [ ] **[API integration]**
+- [ ] **[Dragons section]**
+- [ ] **[Payment methods]**
+- [ ] **[Login section]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,13 +143,13 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you get inspired by this project you can give me a star 🙌
+If you get inspired by this project you can give us a star 🙌
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse
+We would like to thank Space X for the API data 🚀
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
