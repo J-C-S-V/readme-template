@@ -1,11 +1,11 @@
 <a name="readme-top"></a>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://unsplash.com/photos/04X1Yp9hNH8">
     <img src="https://github.com/J-C-S-V/spacex-project/assets/109441277/67864144-6dad-4db2-9b90-ad2ca7b9e4aa" alt="logo" width="740" height="auto" /><br/>
   </a>
   <h1><b>Space Travelers' Hub</b></h1>
-</div>
+</div> -->
 
 # 📗 Table of Contents
 
