@@ -34,8 +34,6 @@ This project is a web application that focuses on rocket reservations and missio
 
 In order to provide up-to-date and relevant information to the users, this SPA integrates with the SpaceX API. By leveraging the SpaceX API, the application can fetch data related to space missions, rocket launches, astronauts, and more. This integration allows users to explore the latest launches, upcoming missions, and historical information about SpaceX's activities directly within the application.
 
-This project is a Single Page Application (SPA), which utilizes modern web technologies to provide a seamless and fluid user experience. By leveraging client-side rendering, the application eliminates the need for full page reloads, enabling users to navigate within the page smoothly.
-
 ## 🛠 Built with <a name="built-with"></a>
 
 ### Tech stack <a name="tech-stack"></a>
