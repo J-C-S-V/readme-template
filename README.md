@@ -1,11 +1,14 @@
+# Metronome App
+
+A personalized metronome app for musicians. It allows users to set custom beats and tempos.
+
 <a name="readme-top"></a>
 
-<!-- <div align="center">
-  <a href="https://unsplash.com/photos/04X1Yp9hNH8">
-    <img src="https://github.com/J-C-S-V/spacex-project/assets/109441277/67864144-6dad-4db2-9b90-ad2ca7b9e4aa" alt="logo" width="740" height="auto" /><br/>
+<div align="center">
+  <a href="https://j-c-s-v.github.io/metronome/" target="_blank">
+  <img src="./metronome_hero.png" alt="logo" width="440" height="auto" /><br/>
   </a>
-  <h1><b>Space Travelers' Hub</b></h1>
-</div> -->
+</div>
 
 # 📗 Table of Contents
 
@@ -30,9 +33,11 @@
 
 # 📖 About the project <a name="about-project"></a>
 
-This project is a web application that focuses on rocket reservations and mission management. It allows users to reserve rockets for upcoming missions and provides a comprehensive overview of mission details. The application is built using React.js and Redux for state management.
+This project is a metronome web application designed to help users maintain consistent rhythm and tempo through an intuitive and minimalistic metronome interface. It allows users to set beats per minute (BPM). The application is built using vanilla JavaScript.
 
-In order to provide up-to-date and relevant information to the users, this SPA integrates with the SpaceX API. By leveraging the SpaceX API, the application can fetch data related to space missions, rocket launches, astronauts, and more. This integration allows users to explore the latest launches, upcoming missions, and historical information about SpaceX's activities directly within the application.
+To ensure a responsive and accurate user experience, a smoke test was conducted, making sure the tempo shown on the interface matched the expected BPM. It offers both visual and auditory cues for beats.
+
+This project is a Single Page Application (SPA), utilizing modern web technologies to deliver a smooth and interactive experience. With client-side rendering, the app provides real-time feedback and settings adjustments without the need for page reloads, allowing users to focus entirely on their rhythm training.
 
 ## 🛠 Built with <a name="built-with"></a>
 
@@ -41,43 +46,24 @@ In order to provide up-to-date and relevant information to the users, this SPA i
 <details>
   <summary>Languages and technologies</summary><br>
   <ul>
-    <li><a href="#">React.js</a></li>
-  </ul>
-  <ul>
-    <li><a href="#">Redux</a></li>
-  </ul>
-  <ul>
-    <li><a href="#">JavaScript</a></li>
-  </ul>
-  <ul>
-    <li><a href="#">HTML5</a></li>
-  </ul>
-  <ul>
-    <li><a href="#">CSS3</a></li>
-  </ul>
-  <ul>
-    <li><a href="#">Git</a></li>
-  </ul>
-  <ul>
-    <li><a href="#">Jest</a></li>
-  </ul>
-  <ul>
-    <li><a href="#">React-testing-library</a></li>
+    <li>Vanilla JavaScript</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Git</li>
+    <li>Reaper</li>
   </ul>
 </details>
 
 ### Key features <a name="key-features"></a>
 
-- **[Centralized state]**
-- **[REST API]**
+- **[Customizable BPM]**
+- **[Minimalistic user interface]**
 - **[Single Page Application]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live demo <a name="live-demo"></a>
 
-Under construction.
-<!-- - [Live Demo Link](https://j-c-s-v.github.io/webpack-to-do-list/) -->
+- [Live Demo Link](https://j-c-s-v.github.io/metronome/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,33 +71,31 @@ Under construction.
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
-
-In order to run this project you need:
-
 ### Setup
 
 Clone this repository to your desired folder:
 
-`git clone` https://github.com/J-C-S-V/spacex-project
+`git clone` https://github.com/J-C-S-V/metronome.git
 
 ### Install
 
-`npm install`
+No need to install any dependencies for this project.
 
 ### Usage
 
-`npm run start`
+Open the `index.html` file in your browser to view the project.
 
 ### Run tests
 
-`npm run test`
+Tests will be added in the future.
 
 ### Deployment
 
 You can deploy this project using:
 
-[Render](https://render.com/)
+- [GitHub Pages](https://pages.github.com/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👷‍♂️ Author <a name="author"></a>
 
@@ -119,21 +103,23 @@ You can deploy this project using:
 
 - GitHub: [Juan Sanchez](https://github.com/J-C-S-V)
 - Twitter: [Juan Sanchez](https://twitter.com/juansan0)
-- LinkedIn: [Juan Sanchez](https://www.linkedin.com/in/juan-carlos-sanchez-vargas-a308b014b/)
+- LinkedIn: [Juan Sanchez](https://www.linkedin.com/in/sanchez-juan-carlos)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future features <a name="future-features"></a>
 
-- [ ] **[Dragons section]**
-- [ ] **[Payment methods]**
-- [ ] **[Login section]**
+- [ ] **[Personalized beats]**
+- [ ] **[Tempo tap detection]**
+- [ ] **[Custom subdivisions]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+Make this app better. Contributions, issues, and feature requests are welcome! 😀
+
+Fork this repository and create a pull request to add your changes.
 
 Feel free to check the [issues page](../../issues/).
 
@@ -141,18 +127,18 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you get inspired by this project you can give us a star 🙌
+If you get inspired by this project you can give a star to this project here on Github 🙌
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank Space X for the API data 🚀
+I would like to thank Reaper for providing the audio engine for this project 🚀
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/J-C-S-V/Portfolio-setup-and-mobile-first/blob/main/license.md) licensed.
+This project is [MIT](https://github.com/J-C-S-V/metronome/blob/main/README.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
